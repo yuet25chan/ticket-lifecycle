@@ -70,6 +70,7 @@ Set Properties to the ticket
 Sev-A (1 hour, 24/7)
 Online Banking Department
 
+![image](https://github.com/user-attachments/assets/ececcaa2-cdae-481f-b2ba-452ae2969ad1)
 
 
 </p>

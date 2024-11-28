@@ -43,9 +43,9 @@ Open the end user url http://localhost/osTicket. Create a ticket as End User Kar
 <br />
 
 <p>
-  
+Log in as John and observe the ticket priority. 
 ![image](https://github.com/user-attachments/assets/20a87a0e-ea3f-4469-aa98-694429598f12)
-
+![image](https://github.com/user-attachments/assets/4fdc99ad-d500-4123-ae40-a690e0f15ae0)
 
 </p>
 <p>
@@ -54,7 +54,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/4fdc99ad-d500-4123-ae40-a690e0f15ae0)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

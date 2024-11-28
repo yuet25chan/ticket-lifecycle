@@ -30,17 +30,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/2f0744ec-00ed-4fc9-9157-8e0aa9052977)
 
 </p>
 <p>
 Open the end user url http://localhost/osTicket. Create a ticket as End User Karen.
+  
 ![image](https://github.com/user-attachments/assets/2f0744ec-00ed-4fc9-9157-8e0aa9052977)
 ![image](https://github.com/user-attachments/assets/96bb4ca0-ce03-4b30-b8a9-c47049494007)
 </p>
 <br />
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/20a87a0e-ea3f-4469-aa98-694429598f12)
 
 

@@ -87,6 +87,11 @@ Work the ticket to completion as jane
 
 ![image](https://github.com/user-attachments/assets/0ce38178-a16e-4dfa-be4b-9aeeef5e8830)
 
+We can see a tracked record of changes on the ticket.
+
+![image](https://github.com/user-attachments/assets/a60eae14-a5fd-4939-aadc-5e3c187ffd76)
+
+
 Jane proivided an update. 
 
 ![image](https://github.com/user-attachments/assets/f62c5e66-a868-416e-896b-a7f772e7c976)

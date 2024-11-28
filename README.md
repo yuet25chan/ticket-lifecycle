@@ -43,7 +43,14 @@ Open the end user url http://localhost/osTicket. Create a ticket as End User Kar
 <br />
 
 <p>
-Log in as John and observe the ticket priority. 
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+ 
+
 ![image](https://github.com/user-attachments/assets/20a87a0e-ea3f-4469-aa98-694429598f12)
 ![image](https://github.com/user-attachments/assets/4fdc99ad-d500-4123-ae40-a690e0f15ae0)
 

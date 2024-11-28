@@ -87,6 +87,10 @@ Work the ticket to completion as jane
 
 ![image](https://github.com/user-attachments/assets/0ce38178-a16e-4dfa-be4b-9aeeef5e8830)
 
+Jane proivided an update. 
+
+![image](https://github.com/user-attachments/assets/f62c5e66-a868-416e-896b-a7f772e7c976)
+
 
 </p>
 <br />

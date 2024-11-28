@@ -82,6 +82,11 @@ Assiging the ticket to the Online Banking team
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+	
+Work the ticket to completion as jane
+
+![image](https://github.com/user-attachments/assets/0ce38178-a16e-4dfa-be4b-9aeeef5e8830)
+
+
 </p>
 <br />

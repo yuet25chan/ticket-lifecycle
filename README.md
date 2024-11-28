@@ -64,6 +64,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   
 ![image](https://github.com/user-attachments/assets/4fdc99ad-d500-4123-ae40-a690e0f15ae0)
 
+![image](https://github.com/user-attachments/assets/891b34d2-5698-4a76-8b22-fbb4e39adf72)
+
+Set Properties to the ticket
+Sev-A (1 hour, 24/7)
+Online Banking Department
+
+
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

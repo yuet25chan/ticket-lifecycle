@@ -74,7 +74,7 @@ Online Banking Department
 
 Update the Service Topic
 
-![image](https://github.com/user-attachments/assets/8f927df3-eb47-4d09-b3ad-63ff3353bac8)
+![image](https://github.com/user-attachments/assets/c923465d-28e6-436d-9ef4-6462a27939a4)
 
 
 </p>

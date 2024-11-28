@@ -76,6 +76,9 @@ Update the Service Topic
 
 ![image](https://github.com/user-attachments/assets/c923465d-28e6-436d-9ef4-6462a27939a4)
 
+Assiging the ticket to the Online Banking team
+
+![image](https://github.com/user-attachments/assets/5cf6724e-f716-471e-81b0-110167a0aff8)
 
 </p>
 <p>

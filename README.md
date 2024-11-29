@@ -111,6 +111,8 @@ As a Help Desk Agent (john), observe the ticket’s properties
 	Department
 	SLA
 	Assigned To
+ 
+![image](https://github.com/user-attachments/assets/963da7d6-f46b-4c10-a4d6-6c83b60d3b28)
 
 Set Properties to the ticket
 Sev-B (4 hours, 24/7)

@@ -100,6 +100,23 @@ Jane closed ticket.
 
 ![image](https://github.com/user-attachments/assets/f055ea0a-34d5-4612-b01a-31c7049cc9af)
 
+As an end-user, create the following ticket
+accounting department needs adobe upgrade, broken
+
+![image](https://github.com/user-attachments/assets/5bb53c9b-612e-4d4b-856d-91b9e7395e7c)
+
+
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
+
+Work the ticket to completion as john
 
 
 </p>

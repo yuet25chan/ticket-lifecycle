@@ -133,6 +133,18 @@ Work the ticket to completion as john
 
 ![image](https://github.com/user-attachments/assets/eceb15eb-978f-4231-b6d0-65bb6118c01c)
 
+As an end-user, create the following ticket
+CFO’s laptop will no longer turn on
+
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
 
 </p>
 <br />

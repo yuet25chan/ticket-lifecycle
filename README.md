@@ -152,5 +152,7 @@ Support
 
 ![image](https://github.com/user-attachments/assets/7a5da9f0-409c-4a59-ab2e-1df1f5574c97)
 
+![image](https://github.com/user-attachments/assets/6670c6e2-a880-44ec-af4a-19e8f668d858)
+
 </p>
 <br />

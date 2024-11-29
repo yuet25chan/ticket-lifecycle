@@ -146,5 +146,7 @@ Set Properties to the ticket
 Sev-B (4 hours, 24/7)
 Support
 
+![image](https://github.com/user-attachments/assets/7705ce61-73bc-4e58-aad6-53a311897456)
+
 </p>
 <br />
